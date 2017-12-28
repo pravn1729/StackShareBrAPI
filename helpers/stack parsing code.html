@@ -1,0 +1,148 @@
+Json parsing
+<script src="stack.js"></script>
+<script>
+function loadData(){
+
+Array.prototype.contains = function(v) {
+    for(var i = 0; i < this.length; i++) {
+        if(this[i] === v) return true;
+    }
+    return false;
+};
+
+Array.prototype.unique = function() {
+    var arr = [];
+    for(var i = 0; i < this.length; i++) {
+        if(!arr.includes(this[i])) {
+            arr.push(this[i]);
+        }
+    }
+    return arr; 
+}
+
+    // Stack layer --> categories --> subcategories --> Tools
+	// Application and Data
+    var applicationData = [];
+    /* 
+	 Application Hosting
+	 Libraries
+     Data Stores
+	 Languages & Frameworks
+	 Assets and Media
+	*/
+	
+	/*
+	application-hosting
+	libraries
+	data-stores
+	languages-and-frameworks
+	assets-and-media
+	*/
+	
+	// Utilities
+	var utilities = [];
+	/* 
+	 Mobile
+	 Payments
+	 Application Utilities
+	 Communications
+	 Analytics
+	*/
+	
+	/*
+	mobile
+	payments
+	application-utilities
+	communications
+	analytics
+	*/
+	// DevOps
+	var devOps = [];
+	/*
+	 Monitoring
+	 Build, Test, Deploy
+	*/
+	
+	// Business Tools
+	var businessTools = [];
+	/*
+	 Support, Sales, and Marketing
+	 Collaboration
+	 Back Office
+	 Design
+	*/
+	
+	var hits = json["hits"];
+	var stacks = [];
+	
+	var folderDuplicates = [];
+	//document.getElementById("data").innerHTML += '<img src="'+hits[0].image_url+'" width=100 height=100 />'+ '<br/>'
+	for(var i=0;i<hits.length;i++){
+		//stacks.push( hits[i].name);
+		/*
+		if(hits[i].category.slug == 'languages-and-frameworks'
+		|| hits[i].category.slug == 'languages-and-frameworks'
+		|| hits[i].category.slug == 'languages-and-frameworks'
+		|| hits[i].category.slug == 'languages-and-frameworks'
+		|| hits[i].category.slug == 'languages-and-frameworks')*/
+		var stackName = hits[i].name;
+		var layerName = hits[i].category.name;
+		var stackImg = hits[i].image_url;
+		stackImg= stackImg.substr(stackImg.lastIndexOf("/")+1, stackImg.length-1)
+		var stackDesc = hits[i].title;
+		var str1= "db.stacks.insert({stackName: '";
+		//document.getElementById("data").innerHTML += hits[i].name+ '---'+ hits[i].category.name+' ---'+hits[i].image_url+ '<br/>';
+		/*document.getElementById("data").innerHTML += str1 + stackName + "', stackDesc: '"+
+		           stackDesc + "', stackImg: '"+stackImg + "', layerName: '"+
+				   layerName +"', createId: 'admin', createDate: new Date(), maintId: '', maintDate: '' });"+"<br/>";
+				   */
+		
+		document.getElementById("data").innerHTML += hits[i].title + "<br/>";
+		
+		// images
+		//document.getElementById("data").innerHTML += hits[i].image_url+'<br/>';
+		var folderId = hits[i].image_url.split('/');
+		folderDuplicates.push(folderId[4]);
+	}
+	//uniques = folderDuplicates.unique();
+	// map : {folderId1:[], folderId2:[]}
+	//creating map
+	//folderMap = {};
+	//for(var i=0; i<uniques.length;i++){
+	//	folderMap[uniques[i]] = [];
+	//}
+	/*stacks.sort();
+	for(var i=0;i<stacks.length;i++){
+		document.getElementById("data").innerHTML += stacks[i]+ '---'+ hits+' ---'+ '<br/>';
+	}*/
+	
+	// putting images into folders
+	
+	/*for(var i=0;i<hits.length;i++){
+		var folderId = hits[i].image_url.split('/');
+		folderMap[folderId[4]].push(hits[i].image_url);
+	}
+	
+	for(var i=0;i<uniques.length;i++){
+		document.getElementById("data").innerHTML += '<h1>'+uniques[i]+'</h1>'+'<br/>';
+		var folderMapArr = folderMap[uniques[i]];
+		//if(folderMapArr.length > 1){
+			for(var j=0;j<folderMapArr.length;j++){
+				document.getElementById("data").innerHTML += folderMapArr[j]+'<br/>';
+			}
+		//}
+		
+		document.getElementById("data").innerHTML += '<hr>';
+	}
+	*/
+	
+	
+
+}
+
+
+
+
+</script>
+<input type="button" onClick="loadData()" value="Load Data"/>
+<div id="data"></div>

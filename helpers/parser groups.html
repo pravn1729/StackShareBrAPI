@@ -1,0 +1,67 @@
+<script>
+var val = `
+
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="meeting-tools">Meeting Tools</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="slack-tools">Slack Tools</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="business-monitoring">Business Monitoring</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="issue-tracking">Issue Tracking</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="wireframing">Wireframing</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="document-signature">Document Signature</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="screen-sharing">Screen Sharing</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="visual-collaboration">Visual Collaboration</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="agile-project-management">Agile Project Management</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="group-chat-and-notifications">Group Chat &amp; Notifications</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="time-tracking">Time Tracking</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="password-management">Password Management</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="team-task-management">Team Task Management</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="enterprise-collaboration">Enterprise Collaboration</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="hosted-irc">Hosted IRC</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="writing-collaboration">Writing Collaboration</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="virtual-desktop">Virtual Desktop</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="productivity-suite">Productivity Suite</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="visual-version-control">Visual Version Control</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="web-and-video-conferencing">Web and Video Conferencing</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="project-management">Project Management</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="kanban-for-github-issues">Kanban for GitHub Issues</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="document-collaboration">Document Collaboration</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="team-inbox">Team Inbox</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="meeting-scheduling">Meeting Scheduling</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="chatops">ChatOps</a>
+<a class="btn btn-ss btn-xs" style="margin: 2px" href="device-streaming">Device Streaming</a>
+
+
+`;
+
+
+function getAllMatches(regex, text) {
+    if (regex.constructor !== RegExp) {
+        throw new Error('not RegExp');
+    }
+
+    var res = [];
+    var match = null;
+
+    if (regex.global) {
+        while (match = regex.exec(text)) {
+            res.push(match);
+        }
+    }
+    else {
+        if (match = regex.exec(text)) {
+            res.push(match);
+        }
+    }
+
+    return res;
+}
+
+//var regex = /abc|def|ghi/g;
+var regex = /">.+<\/a>/g;
+var res = getAllMatches(regex, val);
+
+res.forEach(function (item) {
+    console.log(item[0].replace('">','').replace("</a>",""));
+	document.write(item[0].replace('">','').replace("</a>","") + "<br/>");
+});
+
+</script>

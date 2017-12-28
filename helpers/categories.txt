@@ -1,0 +1,406 @@
+Applications and Data
+-- Libraries
+---- groups
+	Virtual Reality
+	Javascript Utilities & Libraries
+	Javascript UI Libraries
+	Charting Libraries
+	Datagrids
+	JavaScript Framework Components
+	Data Science Tools
+-- Application Hosting
+---- groups
+	GraphQL as a Service
+	Web Server Interface
+	Web App Builders
+	Node.js Hosting
+	Dedicated Cloud Hosting
+	Mobile Backend
+	Cloud Hosting
+	Virtual Private Cloud
+	Platform as a Service
+	Platform as a Service Tools
+	Serverless / Task Processing
+	Web Servers
+	Realtime Backend / API
+
+-- Languages & Frameworks
+---- groups
+	CSS Pre-processors / Extensions
+	Java Tools
+	MVC Tools
+	Bootstrap Tools
+	Language Extensions
+	Concurrency Frameworks
+	Serialization Frameworks
+	Query Languages
+	Templating Languages & Extensions
+	Operating Systems
+	Cross-Platform Mobile Development
+	Javascript MVC Frameworks
+	Microframeworks (Backend)
+	Languages
+	Cross-Platform Desktop Development
+	Frameworks (Full Stack)
+	Front-End Frameworks
+-- Data Stores
+---- groups
+	Workflow Manager
+	MQTT as a Service
+	Memcached Tools
+	Cache Framework
+	Redis Hosting
+	SQL Database as a Service
+	Cloud Storage
+	Big Data as a Service
+	CouchDB Hosting
+	MongoDB Hosting
+	NoSQL Database as a Service
+	Message Queue
+	Managed Memcache
+	PostgreSQL as a Service
+	Object Document Mapper (ODM)
+	Mobile Database
+	Graph Databases
+	Big Data Tools
+	Graph Database as a Service
+	Background Processing
+	In-Memory Databases
+	Stream Processing
+	Database Tools
+	Databases
+	Cache
+	Object Relational Mapper (ORM)
+-- Assets and Media
+---- groups
+	Image Analysis API
+	Video Analysis API
+	File Transfer
+	File Storage
+	Video Streaming
+	File Uploads
+	Media Transcoding
+	Video DRM as a Service
+	Application Streaming
+	File Conversion
+	Image Processing and Management
+	Content Delivery Network
+	Video Storage
+	Screenshots as a Service
+	Video Monetization
+
+
+Utilities
+-- Mobile
+---- groups
+	Mobile Video Tools
+	Mobile UI Components
+	Cross-Platform Mobile Tools
+	Mobile App Marketing Tools
+	Device Management
+	Mobile Game Management
+	Mobile Video Monitoring
+	Mobile App Store Optimization
+	Mobile UI Frameworks
+	iBeacons as a Service
+	Mobile Runtime Inspector
+	Deep Linking as a Service
+	Mobile Test Automation
+-- Payments
+---- groups
+	Payments Tools
+	Payment Services
+	SaaS for Stripe
+	Payments Analytics
+	Bitcoin Services
+
+-- Application Utilities
+---- groups
+	Comment Plugins
+	Static Web Hosting
+	Handwriting as a Service
+	Real-time Data Processing
+	Search Tools
+	Email Validator
+	Referrals as a Service
+	Internet of Things Hardware
+	User Management and Authentication
+	Documentation as a Service & Tools
+	Forecasting
+	Source Code Escrow
+	Delivery
+	Data Backup
+	Web Scraping API
+	Certificate Authority
+	Speech Synthesis as a Service
+	Data Science Notebooks
+	DNS Tools
+	Ruby Utilities
+	Website Builder
+	Commenting Service
+	Load and Performance Testing
+	DNS Management
+	Desktop Querying Tools
+	Website Accelerator
+	Article API
+	Embedding as a Service
+	Social API
+	Tour Widget
+	Search as a Service
+	Web Forms
+	Bug Bounty as a Service
+	API Hub and Management
+	Cloud Dedicated Network Connection
+	Social Infrastructure as a Service
+	Task Management
+	Data Security Services
+	Domain Registration
+	Machine Learning as a Service
+	Cloud Access Management
+	Security
+	Crowdsourced Labor
+	Translation Service
+	Backup as a Service
+	Shipping
+	Data Transfer
+	Cloud Task Management
+	Printing API
+	NLP / Sentiment Analysis
+	Ecommerce
+	Contact Management
+	Crowdsourced Testing
+	Terminal Recording
+	Internet of Things Services
+	Identity Verification as a Service
+	SEO for Javascript
+	Search Engines
+	Mobile Prototyping & Interaction Design Tools
+	User Feedback as a Service
+	Facial Recognition
+	API Tools
+	Desktop Browser Mobile App Emulators
+	Question and Answer Sites
+	Activity Feeds as a Service
+	Calendar API
+	On-Demand as a Service
+	IP Address / WHOIS API
+	Private SaaS as a Service
+	Spreadsheets as a Backend
+	Machine Learning Tools
+	Visual Website Monitoring
+	Static Site Generators
+	Customer Information API
+	Fraud Detection as a Service
+	Mapping APIs
+-- Communications
+---- groups
+	Chatbot Platforms & Tools
+	Chat API
+	Text-To-Speech as a Service
+	Speech Recognition as a Service
+	Email Deliverability
+	Email API
+	Transactional Email
+	Voice and SMS
+	Phone
+	Communications SDK
+	Mobile Push Messaging
+	Web Push Notifications
+	Open Source Email Templates
+	Email Inbox API
+	Audio Processing
+	Audio Player
+-- Analytics
+---- groups
+	Funnel Analysis Analytics
+	Predictive Analytics
+	Monitoring for Analytics
+	Custom Analytics
+	Heatmap Analytics
+	Realtime Analytics
+	A/B Testing Analytics
+	Video Marketing and Analytics
+	Analytics Integrator
+	Mobile A/B Testing
+	Mobile Analytics
+	General Analytics
+	Customer Analytics
+	Customer Satisfaction Analytics
+	Targeted Messaging Analytics
+	Business Dashboards
+	Business Intelligence
+DevOps
+-- Monitoring
+---- groups
+	Logging Tools
+	Monitoring Tools
+	Performance Monitoring
+	Node.js Process Manager
+	Cloud Monitoring
+	Event Monitoring
+	node.js Application Monitoring
+	Website Monitoring
+	Exception Monitoring
+	Monitoring Aggregation
+	Mobile Error Monitoring
+	Status Page Hosting
+	Network Monitoring
+	Log Management
+	Font-end Performance Monitoring
+	Remote Server Task Execution
+
+-- Build, Test, Deploy
+---- groups
+	JavaScript Optimizers
+	Collaborative Text Editor
+	Python Build Tools
+	Dependency Monitoring
+	Architecture Design Tools
+	Integrated Development Environment Tools
+	API Documentation Browser
+	AWS Tools
+	Sandbox as a Service
+	Package Managers
+	Microservices Tools
+	Virtual Machine Platforms & Containers
+	Realtime Code Collaboration
+	Feature Flags Management
+	Code Collaboration & Version Control
+	Browser Testing
+	Open Source Service Discovery
+	Open Source Cloud
+	Code Coverage
+	Docker Registry
+	Virtual Machine Management
+	Continuous Deployment
+	Server Configuration and Automation
+	Javascript Testing Framework
+	Virtualization Platform
+	Text Editor
+	Continuous Integration
+	Server Software
+	Hosted Package Repository
+	Containers as a Service
+	Cloud Management
+	Code Review
+	Deployment as a Service
+	Virtual Machine
+	Markdown Editors
+	Rails Testing
+	Cluster Management
+	In-Browser Testing
+	Git Tools
+	Web Cache
+	Version Control System
+	Tools for GitHub
+	Front End Package Manager
+	Tools for Text Editors
+	Front End Scaffolding Tools
+	JS Build Tools / JS Task Runners
+	Mobile Continuous Integration
+	localhost Tools
+	Beta Testing / Mobile App Distribution
+	Infrastructure Build Tools
+	Container Tools
+	C / C++ Build Tools
+	Composable Web Service Framework
+	Fault Tolerance Tools
+	Live Reloading
+	Programming & Code Analytics
+	Go Testing
+	Database Cluster Management
+	HTTP Traffic Replay
+	Headless Browsers
+	Website Performance Testing
+	JavaScript Compilers
+	Test Management
+	Java Build Tools
+	Code Search
+	Cloud IDE
+	Secrets Management
+	Mobile Testing Frameworks
+	Source Code Management Desktop Apps
+	Load Balancer / Reverse Proxy
+	Integrated Development Environment
+	Testing Frameworks
+Business Tools
+-- Support, Sales, and Marketing
+---- groups
+	Online Email Editor
+	Mail Merge Tools
+	Call Center as a Service
+	Self-Hosted Blogging / CMS
+	CMS Tools
+	Forums
+	Social Proof Widget
+	Call Center Management
+	Email Testing
+	Social Media Tools
+	Customer Support Chat
+	Crowdfunding
+	Competitions as a Service
+	Marketing Automation
+	Bug Reporting
+	Ad Retargeting
+	Customer Community
+	Invitation Management
+	Feedback Widget
+	Mobile Customer Support
+	Survey Widget
+	Email Marketing
+	Cloud Content Management System
+	Customer Profiles
+	Hosted Blogging Platforms
+	CRM
+	Help Desk
+	Landing Pages
+	SEO as a Service
+	Engagement/Lifecycle Marketing
+	Web Service Automation
+-- Back Office
+---- groups
+	Employee Perks
+	Accounting
+	Payroll & Benefits
+	Fax
+	Enterprise Resource Planning (ERP)
+	Expense Management
+	Compliance
+	Spreadsheets Online
+	Legal Services
+-- Design
+---- groups
+	Graphic Design
+	Interactive Mockups
+	Open Source Design Tools
+-- Collaboration
+---- groups
+	Meeting Tools
+	Slack Tools
+	Business Monitoring
+	Issue Tracking
+	Wireframing
+	Document Signature
+	Screen Sharing
+	Visual Collaboration
+	Agile Project Management
+	Group Chat & Notifications
+	Time Tracking
+	Password Management
+	Team Task Management
+	Enterprise Collaboration
+	Hosted IRC
+	Writing Collaboration
+	Virtual Desktop
+	Productivity Suite
+	Visual Version Control
+	Web and Video Conferencing
+	Project Management
+	Kanban for GitHub Issues
+	Document Collaboration
+	Team Inbox
+	Meeting Scheduling
+	ChatOps
+	Device Streaming
+
+Others

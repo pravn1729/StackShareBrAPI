@@ -1,0 +1,363 @@
+#	@	Applications and Data	##	Libraries	@@	Virtual Reality	@@@	$
+#	@	Applications and Data	##	Libraries	@@	Javascript Utilities & Libraries	@@@	$
+#	@	Applications and Data	##	Libraries	@@	Javascript UI Libraries	@@@	$
+#	@	Applications and Data	##	Libraries	@@	Charting Libraries	@@@	$
+#	@	Applications and Data	##	Libraries	@@	Datagrids	@@@	$
+#	@	Applications and Data	##	Libraries	@@	JavaScript Framework Components	@@@	$
+#	@	Applications and Data	##	Libraries	@@	Data Science Tools	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	GraphQL as a Service	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Web Server Interface	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Web App Builders	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Node.js Hosting	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Dedicated Cloud Hosting	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Mobile Backend	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Cloud Hosting	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Virtual Private Cloud	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Platform as a Service	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Platform as a Service Tools	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Serverless / Task Processing	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Web Servers	@@@	$
+#	@	Applications and Data	##	Application Hosting	@@	Realtime Backend / API	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	CSS Pre-processors / Extensions	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Java Tools	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	MVC Tools	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Bootstrap Tools	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Language Extensions	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Concurrency Frameworks	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Serialization Frameworks	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Query Languages	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Templating Languages & Extensions	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Operating Systems	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Cross-Platform Mobile Development	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Javascript MVC Frameworks	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Microframeworks (Backend)	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Languages	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Cross-Platform Desktop Development	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Frameworks (Full Stack)	@@@	$
+#	@	Applications and Data	##	Languages & Frameworks	@@	Front-End Frameworks	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Workflow Manager	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	MQTT as a Service	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Memcached Tools	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Cache Framework	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Redis Hosting	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	SQL Database as a Service	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Cloud Storage	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Big Data as a Service	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	CouchDB Hosting	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	MongoDB Hosting	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	NoSQL Database as a Service	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Message Queue	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Managed Memcache	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	PostgreSQL as a Service	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Object Document Mapper (ODM)	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Mobile Database	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Graph Databases	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Big Data Tools	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Graph Database as a Service	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Background Processing	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	In-Memory Databases	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Stream Processing	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Database Tools	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Databases	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Cache	@@@	$
+#	@	Applications and Data	##	Data Stores	@@	Object Relational Mapper (ORM)	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Image Analysis API	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Video Analysis API	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	File Transfer	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	File Storage	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Video Streaming	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	File Uploads	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Media Transcoding	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Video DRM as a Service	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Application Streaming	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	File Conversion	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Image Processing and Management	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Content Delivery Network	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Video Storage	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Screenshots as a Service	@@@	$
+#	@	Applications and Data	##	Assets and Media	@@	Video Monetization	@@@	$
+#	@	Utilities	##	Mobile	@@	Mobile Video Tools	@@@	$
+#	@	Utilities	##	Mobile	@@	Mobile UI Components	@@@	$
+#	@	Utilities	##	Mobile	@@	Cross-Platform Mobile Tools	@@@	$
+#	@	Utilities	##	Mobile	@@	Mobile App Marketing Tools	@@@	$
+#	@	Utilities	##	Mobile	@@	Device Management	@@@	$
+#	@	Utilities	##	Mobile	@@	Mobile Game Management	@@@	$
+#	@	Utilities	##	Mobile	@@	Mobile Video Monitoring	@@@	$
+#	@	Utilities	##	Mobile	@@	Mobile App Store Optimization	@@@	$
+#	@	Utilities	##	Mobile	@@	Mobile UI Frameworks	@@@	$
+#	@	Utilities	##	Mobile	@@	iBeacons as a Service	@@@	$
+#	@	Utilities	##	Mobile	@@	Mobile Runtime Inspector	@@@	$
+#	@	Utilities	##	Mobile	@@	Deep Linking as a Service	@@@	$
+#	@	Utilities	##	Mobile	@@	Mobile Test Automation	@@@	$
+#	@	Utilities	##	Payments	@@	Payments Tools	@@@	$
+#	@	Utilities	##	Payments	@@	Payment Services	@@@	$
+#	@	Utilities	##	Payments	@@	SaaS for Stripe	@@@	$
+#	@	Utilities	##	Payments	@@	Payments Analytics	@@@	$
+#	@	Utilities	##	Payments	@@	Bitcoin Services	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Comment Plugins	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Static Web Hosting	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Handwriting as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Real-time Data Processing	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Search Tools	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Email Validator	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Referrals as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Internet of Things Hardware	@@@	$
+#	@	Utilities	##	Application Utilities	@@	User Management and Authentication	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Documentation as a Service & Tools	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Forecasting	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Source Code Escrow	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Delivery	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Data Backup	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Web Scraping API	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Certificate Authority	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Speech Synthesis as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Data Science Notebooks	@@@	$
+#	@	Utilities	##	Application Utilities	@@	DNS Tools	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Ruby Utilities	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Website Builder	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Commenting Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Load and Performance Testing	@@@	$
+#	@	Utilities	##	Application Utilities	@@	DNS Management	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Desktop Querying Tools	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Website Accelerator	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Article API	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Embedding as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Social API	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Tour Widget	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Search as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Web Forms	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Bug Bounty as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	API Hub and Management	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Cloud Dedicated Network Connection	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Social Infrastructure as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Task Management	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Data Security Services	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Domain Registration	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Machine Learning as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Cloud Access Management	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Security	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Crowdsourced Labor	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Translation Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Backup as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Shipping	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Data Transfer	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Cloud Task Management	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Printing API	@@@	$
+#	@	Utilities	##	Application Utilities	@@	NLP / Sentiment Analysis	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Ecommerce	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Contact Management	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Crowdsourced Testing	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Terminal Recording	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Internet of Things Services	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Identity Verification as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	SEO for Javascript	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Search Engines	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Mobile Prototyping & Interaction Design Tools	@@@	$
+#	@	Utilities	##	Application Utilities	@@	User Feedback as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Facial Recognition	@@@	$
+#	@	Utilities	##	Application Utilities	@@	API Tools	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Desktop Browser Mobile App Emulators	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Question and Answer Sites	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Activity Feeds as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Calendar API	@@@	$
+#	@	Utilities	##	Application Utilities	@@	On-Demand as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	IP Address / WHOIS API	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Private SaaS as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Spreadsheets as a Backend	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Machine Learning Tools	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Visual Website Monitoring	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Static Site Generators	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Customer Information API	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Fraud Detection as a Service	@@@	$
+#	@	Utilities	##	Application Utilities	@@	Mapping APIs	@@@	$
+#	@	Utilities	##	Communications	@@	Chatbot Platforms & Tools	@@@	$
+#	@	Utilities	##	Communications	@@	Chat API	@@@	$
+#	@	Utilities	##	Communications	@@	Text-To-Speech as a Service	@@@	$
+#	@	Utilities	##	Communications	@@	Speech Recognition as a Service	@@@	$
+#	@	Utilities	##	Communications	@@	Email Deliverability	@@@	$
+#	@	Utilities	##	Communications	@@	Email API	@@@	$
+#	@	Utilities	##	Communications	@@	Transactional Email	@@@	$
+#	@	Utilities	##	Communications	@@	Voice and SMS	@@@	$
+#	@	Utilities	##	Communications	@@	Phone	@@@	$
+#	@	Utilities	##	Communications	@@	Communications SDK	@@@	$
+#	@	Utilities	##	Communications	@@	Mobile Push Messaging	@@@	$
+#	@	Utilities	##	Communications	@@	Web Push Notifications	@@@	$
+#	@	Utilities	##	Communications	@@	Open Source Email Templates	@@@	$
+#	@	Utilities	##	Communications	@@	Email Inbox API	@@@	$
+#	@	Utilities	##	Communications	@@	Audio Processing	@@@	$
+#	@	Utilities	##	Communications	@@	Audio Player	@@@	$
+#	@	Utilities	##	Analytics	@@	Funnel Analysis Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Predictive Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Monitoring for Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Custom Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Heatmap Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Realtime Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	A/B Testing Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Video Marketing and Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Analytics Integrator	@@@	$
+#	@	Utilities	##	Analytics	@@	Mobile A/B Testing	@@@	$
+#	@	Utilities	##	Analytics	@@	Mobile Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	General Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Customer Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Customer Satisfaction Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Targeted Messaging Analytics	@@@	$
+#	@	Utilities	##	Analytics	@@	Business Dashboards	@@@	$
+#	@	Utilities	##	Analytics	@@	Business Intelligence	@@@	$
+#	@	DevOps	##	Monitoring	@@	Logging Tools	@@@	$
+#	@	DevOps	##	Monitoring	@@	Monitoring Tools	@@@	$
+#	@	DevOps	##	Monitoring	@@	Performance Monitoring	@@@	$
+#	@	DevOps	##	Monitoring	@@	Node.js Process Manager	@@@	$
+#	@	DevOps	##	Monitoring	@@	Cloud Monitoring	@@@	$
+#	@	DevOps	##	Monitoring	@@	Event Monitoring	@@@	$
+#	@	DevOps	##	Monitoring	@@	node.js Application Monitoring	@@@	$
+#	@	DevOps	##	Monitoring	@@	Website Monitoring	@@@	$
+#	@	DevOps	##	Monitoring	@@	Exception Monitoring	@@@	$
+#	@	DevOps	##	Monitoring	@@	Monitoring Aggregation	@@@	$
+#	@	DevOps	##	Monitoring	@@	Mobile Error Monitoring	@@@	$
+#	@	DevOps	##	Monitoring	@@	Status Page Hosting	@@@	$
+#	@	DevOps	##	Monitoring	@@	Network Monitoring	@@@	$
+#	@	DevOps	##	Monitoring	@@	Log Management	@@@	$
+#	@	DevOps	##	Monitoring	@@	Font-end Performance Monitoring	@@@	$
+#	@	DevOps	##	Monitoring	@@	Remote Server Task Execution	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	JavaScript Optimizers	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Collaborative Text Editor	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Python Build Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Dependency Monitoring	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Architecture Design Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Integrated Development Environment Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	API Documentation Browser	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	AWS Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Sandbox as a Service	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Package Managers	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Microservices Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Virtual Machine Platforms & Containers	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Realtime Code Collaboration	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Feature Flags Management	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Code Collaboration & Version Control	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Browser Testing	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Open Source Service Discovery	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Open Source Cloud	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Code Coverage	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Docker Registry	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Virtual Machine Management	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Continuous Deployment	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Server Configuration and Automation	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Javascript Testing Framework	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Virtualization Platform	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Text Editor	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Continuous Integration	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Server Software	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Hosted Package Repository	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Containers as a Service	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Cloud Management	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Code Review	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Deployment as a Service	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Virtual Machine	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Markdown Editors	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Rails Testing	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Cluster Management	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	In-Browser Testing	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Git Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Web Cache	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Version Control System	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Tools for GitHub	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Front End Package Manager	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Tools for Text Editors	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Front End Scaffolding Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	JS Build Tools / JS Task Runners	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Mobile Continuous Integration	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	localhost Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Beta Testing / Mobile App Distribution	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Infrastructure Build Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Container Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	C / C++ Build Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Composable Web Service Framework	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Fault Tolerance Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Live Reloading	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Programming & Code Analytics	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Go Testing	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Database Cluster Management	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	HTTP Traffic Replay	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Headless Browsers	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Website Performance Testing	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	JavaScript Compilers	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Test Management	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Java Build Tools	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Code Search	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Cloud IDE	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Secrets Management	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Mobile Testing Frameworks	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Source Code Management Desktop Apps	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Load Balancer / Reverse Proxy	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Integrated Development Environment	@@@	$
+#	@	DevOps	##	Build, Test, Deploy	@@	Testing Frameworks	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Online Email Editor	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Mail Merge Tools	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Call Center as a Service	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Self-Hosted Blogging / CMS	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	CMS Tools	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Forums	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Social Proof Widget	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Call Center Management	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Email Testing	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Social Media Tools	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Customer Support Chat	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Crowdfunding	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Competitions as a Service	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Marketing Automation	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Bug Reporting	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Ad Retargeting	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Customer Community	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Invitation Management	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Feedback Widget	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Mobile Customer Support	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Survey Widget	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Email Marketing	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Cloud Content Management System	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Customer Profiles	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Hosted Blogging Platforms	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	CRM	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Help Desk	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Landing Pages	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	SEO as a Service	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Engagement/Lifecycle Marketing	@@@	$
+#	@	Business Tools	##	Support, Sales, and Marketing	@@	Web Service Automation	@@@	$
+#	@	Business Tools	##	Back Office	@@	Employee Perks	@@@	$
+#	@	Business Tools	##	Back Office	@@	Accounting	@@@	$
+#	@	Business Tools	##	Back Office	@@	Payroll & Benefits	@@@	$
+#	@	Business Tools	##	Back Office	@@	Fax	@@@	$
+#	@	Business Tools	##	Back Office	@@	Enterprise Resource Planning (ERP)	@@@	$
+#	@	Business Tools	##	Back Office	@@	Expense Management	@@@	$
+#	@	Business Tools	##	Back Office	@@	Compliance	@@@	$
+#	@	Business Tools	##	Back Office	@@	Spreadsheets Online	@@@	$
+#	@	Business Tools	##	Back Office	@@	Legal Services	@@@	$
+#	@	Business Tools	##	Design	@@	Graphic Design	@@@	$
+#	@	Business Tools	##	Design	@@	Interactive Mockups	@@@	$
+#	@	Business Tools	##	Design	@@	Open Source Design Tools	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Meeting Tools	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Slack Tools	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Business Monitoring	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Issue Tracking	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Wireframing	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Document Signature	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Screen Sharing	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Visual Collaboration	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Agile Project Management	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Group Chat & Notifications	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Time Tracking	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Password Management	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Team Task Management	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Enterprise Collaboration	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Hosted IRC	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Writing Collaboration	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Virtual Desktop	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Productivity Suite	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Visual Version Control	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Web and Video Conferencing	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Project Management	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Kanban for GitHub Issues	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Document Collaboration	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Team Inbox	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Meeting Scheduling	@@@	$
+#	@	Business Tools	##	Collaboration	@@	ChatOps	@@@	$
+#	@	Business Tools	##	Collaboration	@@	Device Streaming	@@@	$
